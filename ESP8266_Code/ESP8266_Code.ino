@@ -5,7 +5,7 @@
   (____/(______)(____)(_)\_)(_____)     \___)(_____)(____)(_)\_)
   Official code for ESP8266 boards                   version 3.3
 
-  Duino-Coin Team & Community 2019-2022 © MIT Licensed
+  Duino-Coin Team & Community 2019-2023 © MIT Licensed
   https://duinocoin.com
   https://github.com/revoxhere/duino-coin
 
